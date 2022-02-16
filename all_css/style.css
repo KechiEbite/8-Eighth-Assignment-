@@ -27,11 +27,26 @@ li{
 .content_box{
     background-color: white;
     font-family: '-apple-system', 'BlinkMacSystemFont', sans-serif;
-
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 80%;
+    border: 10% solid #cccccc;
+    box-shadow: auto #cccccc;
+    color: #272727;
 }
-
-
-
+.heading_part{
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.rem_steve{
+    text-align: center;
+    font-size: 48px;
+}
+.rem_steve2{
+    font-size: 13.5px;
+    text-align: center;
+}
 
 
 
