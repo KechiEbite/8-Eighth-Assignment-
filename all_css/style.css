@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    background-color: #cccccc;
 }
 .black_navbar{
     list-style-type:none;
@@ -15,10 +16,10 @@ body{
 li{
     float: left;
     display:inline;    
-    color:	#f6f6f6;
+    color:	#cccccc;
     padding: .80%;
     text-align: center;
-    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: '-apple-system', 'BlinkMacSystemFont', sans-serif;
     font-size: small;
     font-weight: bold;
 }
