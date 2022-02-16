@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+}
+.black_navbar{
+    list-style-type:none;
+    overflow: hidden;
+    background-color: black;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    margin: 0;
+    padding-left: 20%;
+    padding-right: 20%
+}
+li{
+    float: left;
+    display:inline;    
+    color:	#f6f6f6;
+    padding: .80%;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: small;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
