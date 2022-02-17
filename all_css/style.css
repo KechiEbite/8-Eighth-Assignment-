@@ -47,9 +47,28 @@ li{
     font-size: 13.5px;
     text-align: center;
 }
-
-
-
+a{
+    color: #2986aa;
+}
+hr{
+    width: 80%;
+    color: aliceblue;
+    
+}
+.tributes{
+    padding-left: 26%;
+    padding-right: 26%;
+}
+h4{
+    font-size: small;
+}
+.said_tribute{
+    font-size: 14px;
+}
+.tribute_author{
+    font-size: 12px;
+    color: #cccccc;
+}
 
 
 
